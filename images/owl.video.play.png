@@ -1,0 +1,560 @@
+<!doctype html><html lang="en-US"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="//gmpg.org/xfn/11"><title>Page not found &#8211; Bixol</title><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><style type="text/css">@font-face {
+ font-family: 'Kalam';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/YA9dr0Wd4kDdMthfOCI.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Lato';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Lato';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Muli';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk50e0.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(../fonts/pe01MImSLYBIv1o4X1M8cce4GxZrY10IVw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/pe01MImSLYBIv1o4X1M8cce4G3JoY10IVw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/pe0oMImSLYBIv1o4X1M8cce4E9dKcw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/pe01MImSLYBIv1o4X1M8cce4GwZuY10IVw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/pe01MImSLYBIv1o4X1M8cce4G2JvY10IVw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(../fonts/pe01MImSLYBIv1o4X1M8cce4G35sY10IVw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/pe01MImSLYBIv1o4X1M8cce4G1ptY10IVw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(../fonts/pe03MImSLYBIv1o4X1M8cc9yAs5jU1Q.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/pe03MImSLYBIv1o4X1M8cc8WAc5jU1Q.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/pe0qMImSLYBIv1o4X1M8ccezI94.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/pe03MImSLYBIv1o4X1M8cc9iB85jU1Q.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/pe03MImSLYBIv1o4X1M8cc8GBs5jU1Q.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(../fonts/pe03MImSLYBIv1o4X1M8cc8aBc5jU1Q.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Nunito Sans';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/pe03MImSLYBIv1o4X1M8cc8-BM5jU1Q.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Playfair Display';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXt_A_A.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Playfair Display';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXt_A_A.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Playfair Display';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtY.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Playfair Display';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDZbtY.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Playfair Display';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(../fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDZbtY.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Playfair Display';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDZbtY.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(../fonts/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 200;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/pxiGyp8kv8JHgFVrJJLufntF.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 800;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(../fonts/pxiGyp8kv8JHgFVrLPTufntF.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/pxiEyp8kv8JHgFVrJJnedw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: italic;
+ font-weight: 100;
+ font-display: swap;
+ src: url(../fonts/KFOiCnqEu92Fr1Mu51QrEz4dKg.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: italic;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/KFOkCnqEu92Fr1Mu51xGIzc.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: italic;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(../fonts/KFOkCnqEu92Fr1MmgVxGIzc.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/KFOlCnqEu92Fr1MmSU5fChc9.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/KFOmCnqEu92Fr1Mu7GxP.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/KFOlCnqEu92Fr1MmEU9fChc9.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/KFOlCnqEu92Fr1MmWUlfChc9.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/KFOlCnqEu92Fr1MmYUtfChc9.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 100;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 200;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 800;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Roboto Slab';
+ font-style: normal;
+ font-weight: 900;
+ font-display: swap;
+ src: url(../fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYWRm.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: italic;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U5f4c.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: italic;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U5f4c.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: italic;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU5f4c.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: italic;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU5f4c.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: normal;
+ font-weight: 300;
+ font-display: swap;
+ src: url(../fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFWUUw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: normal;
+ font-weight: 400;
+ font-display: swap;
+ src: url(../fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFWUUw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: normal;
+ font-weight: 500;
+ font-display: swap;
+ src: url(../fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFWUUw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: normal;
+ font-weight: 600;
+ font-display: swap;
+ src: url(../fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FWUUw.ttf) format('truetype');
+}
+@font-face {
+ font-family: 'Rubik';
+ font-style: normal;
+ font-weight: 700;
+ font-display: swap;
+ src: url(../fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FWUUw.ttf) format('truetype');
+} </style><link rel="stylesheet" id="siteground-optimizer-combined-css-a486a56e8c9e867d88d5ae0753e69eeb" href="../css/siteground-optimizer-combined-css-a486a56e8c9e867d88d5ae0753e69eeb.css" media="all"> <style type="text/css" media="screen">#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active:hover,body #booked-profile-page input[type=submit].button-primary:hover,body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover,body table.booked-calendar input[type=submit].button-primary:hover,body .booked-modal input[type=submit].button-primary:hover,body table.booked-calendar th,body table.booked-calendar thead,body table.booked-calendar thead th,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,body #booked-profile-page .booked-profile-header,body #booked-profile-page .booked-tabs li.active a,body #booked-profile-page .booked-tabs li.active a:hover,body #booked-profile-page .appt-block .google-cal-button > a:hover,#ui-datepicker-div.booked_custom_date_picker .ui-datepicker-header{ background:#1684fb !important; }body #booked-profile-page input[type=submit].button-primary:hover,body table.booked-calendar input[type=submit].button-primary:hover,body .booked-list-view button.button:hover, body .booked-list-view input[type=submit].button-primary:hover,body .booked-modal input[type=submit].button-primary:hover,body table.booked-calendar th,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,body #booked-profile-page .booked-profile-header,body #booked-profile-page .appt-block .google-cal-button > a:hover{ border-color:#1684fb !important; }body table.booked-calendar tr.days,body table.booked-calendar tr.days th,body .booked-calendarSwitcher.calendar,body #booked-profile-page .booked-tabs,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead th{ background:#0431b8 !important; }body table.booked-calendar tr.days th,body #booked-profile-page .booked-tabs{ border-color:#0431b8 !important; }#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a,#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a:hover,body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block,body #booked-profile-page .appt-block .google-cal-button > a,body .booked-modal p.booked-title-bar,body table.booked-calendar td:hover .date span,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover,.booked-ms-modal .booked-book-appt /* Multi-Slot Booking */{ background:#1684fb; }body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-list-view button.button, body .booked-list-view input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body #booked-profile-page .appt-block .google-cal-button > a,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover{ border-color:#1684fb; }body .booked-modal .bm-window p i.fa,body .booked-modal .bm-window a,body .booked-appt-list .booked-public-appointment-title,body .booked-modal .bm-window p.appointment-title,.booked-ms-modal.visible:hover .booked-book-appt{ color:#1684fb; }.booked-appt-list .timeslot.has-title .booked-public-appointment-title { color:inherit; }</style><!-- Optimized by SG Optimizer plugin version - 5.7.12 --><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="alternate" type="application/rss+xml" title="Bixol &raquo; Feed" href="https://demo.casethemes.net/bixol/feed/"><link rel="alternate" type="application/rss+xml" title="Bixol &raquo; Comments Feed" href="https://demo.casethemes.net/bixol/comments/feed/"> <style id="yith-wcwl-main-inline-css" type="text/css"> .yith-wcwl-share li a{color: #FFFFFF;}.yith-wcwl-share li a:hover{color: #FFFFFF;}.yith-wcwl-share a.facebook{background: #39599E; background-color: #39599E;}.yith-wcwl-share a.facebook:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.twitter{background: #45AFE2; background-color: #45AFE2;}.yith-wcwl-share a.twitter:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.pinterest{background: #AB2E31; background-color: #AB2E31;}.yith-wcwl-share a.pinterest:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.email{background: #FBB102; background-color: #FBB102;}.yith-wcwl-share a.email:hover{background: #595A5A; background-color: #595A5A;}.yith-wcwl-share a.whatsapp{background: #00A901; background-color: #00A901;}.yith-wcwl-share a.whatsapp:hover{background: #595A5A; background-color: #595A5A;} </style> <style id="rs-plugin-settings-inline-css" type="text/css"> #rs-demo-id {} </style><link rel="stylesheet" id="woocommerce-smallscreen-css" href="../css/woocommerce-smallscreen.min.css" type="text/css" media="only screen and (max-width: 768px)"> <style id="woocommerce-inline-inline-css" type="text/css"> .woocommerce form .form-row .required { visibility: visible; } </style> <style id="yith-quick-view-inline-css" type="text/css"> #yith-quick-view-modal .yith-wcqv-main{background:#ffffff;}
+ #yith-quick-view-close{color:#cdcdcd;}
+ #yith-quick-view-close:hover{color:#ff0000;} </style> <style id="font-awesome-inline-css" type="text/css"> [data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;} </style> <style id="bixol-theme-inline-css" type="text/css"> @media screen and(max-width:1199px){}@media screen and(min-width:1200px){} </style> <script type="text/javascript" src="../js/jquery.min.js" id="jquery-core-js"></script><link rel="https://api.w.org/" href="https://demo.casethemes.net/bixol/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.casethemes.net/bixol/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.casethemes.net/bixol/wp-includes/wlwmanifest.xml"><meta name="generator" content="WordPress 5.6"><meta name="generator" content="WooCommerce 4.8.0"><meta name="framework" content="Redux 4.1.24"><link rel="icon" type="image/png" href="favicon.png"> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript><meta name="generator" content="Powered by Slider Revolution 6.2.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."> <script type="text/javascript">function setREVStartSize(e){
+ //window.requestAnimationFrame(function() { 
+ window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW; 
+ window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH; 
+ try { 
+ var pw = document.getElementById(e.c).parentNode.offsetWidth,
+ newh;
+ pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+ e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+ e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+ e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+ e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+ e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+ e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+ e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0); 
+ if(e.layout==="fullscreen" || e.l==="fullscreen") 
+ newh = Math.max(e.mh,window.RSIH); 
+ else{ 
+ e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+ for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1]; 
+ e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+ e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+ for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1]; 
+ var nl = new Array(e.rl.length),
+ ix = 0, 
+ sl; 
+ e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+ e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+ e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+ e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh; 
+ for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+ sl = nl[0]; 
+ for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;} 
+ var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]); 
+ newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+ } 
+ if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style")); 
+ document.getElementById(e.c).height = newh+"px";
+ window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }"; 
+ } catch(e){
+ console.log("Failure at Presize of Slider:" + e)
+ } 
+ //});
+ };</script> <style type="text/css" id="wp-custom-css"> #ct-header-wrap .ct-topbar-layout2 a:hover {
+ color: inherit;
+} </style> <style id="ct_theme_options-dynamic-css" title="dynamic-css" class="redux-options-output">.ct-main-menu > li > a, body .ct-main-menu .sub-menu li a{font-display:swap;}body #pagetitle{background-image:url('page-title-update.jpg');}a{color:#1684fb;}a:hover{color:#0431b8;}a:active{color:#0431b8;}body{font-display:swap;}h1,.h1,.text-heading{font-display:swap;}h2,.h2{font-display:swap;}h3,.h3{font-display:swap;}h4,.h4{font-display:swap;}h5,.h5{font-display:swap;}h6,.h6{font-display:swap;}</style></head><body class="error404 theme-bxlo woocommerce-no-js hfeed redux-page  site-h1 body-default-font heading-default-font header-sticky  site-404-default elementor-default elementor-kit-72"><div id="page" class="site"><div id="ct-loadding" class="ct-loader style13"><div class="loading-infinity"><div> <span></span></div><div> <span></span></div><div> <span></span></div></div></div><header id="ct-masthead"><div id="ct-header-wrap" class="ct-header-layout1 fixed-height is-sticky"><div id="ct-topbar" class="ct-topbar-layout1"><div class="container"><div class="row"><div class="ct-topbar-meta"><div class="ct-topbar-item"> <i class="flaticon-telephone"></i> <label>Call for help:</label> <a href="tel:+12354623257">(+123) 5462 3257</a></div><div class="ct-topbar-item"> <i class="flaticon-chat-box"></i> <label>Mail to us:</label> <a href="mailto:envato@gmail.com">envato@gmail.com</a></div></div><div class="ct-topbar-social"><div class="ct-header-social"> <a href="#" target="_blank"><i class="fab fac-facebook-f"></i></a><a href="#" target="_blank"><i class="fab fac-twitter"></i></a><a href="#" target="_blank"><i class="fab fac-linkedin-in"></i></a><a href="#" target="_blank"><i class="fab fac-instagram"></i></a></div></div></div></div></div><div id="ct-header" class="ct-header-main"><div class="container"><div class="row"><div class="ct-header-branding"><div class="ct-header-branding-inner"> <a class="logo-dark" href="https://demo.casethemes.net/bixol/" title="Bixol" rel="home"><img src="logo-dark-1.png" alt="Bixol"></a><a class="logo-mobile" href="https://demo.casethemes.net/bixol/" title="Bixol" rel="home"><img src="logo-mobile.png" alt="Bixol"></a></div></div><div class="ct-header-navigation"><nav class="ct-main-navigation"><div class="ct-main-navigation-inner"><div class="ct-logo-mobile"> <a href="" title="" rel="home"><img src="logo-mobile.png" alt=""></a></div><ul id="ct-main-menu" class="ct-main-menu children-plus clearfix"><li id="menu-item-1495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-1495"><a href="https://demo.casethemes.net/bixol/"><span>Home</span></a><ul class="sub-menu"><li id="menu-item-1670" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1670"><a href="https://demo.casethemes.net/bixol/"><span>Home 1</span></a></li><li id="menu-item-1666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1666"><a href="https://demo.casethemes.net/bixol/home-2/"><span>Home 2</span></a></li><li id="menu-item-1783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1783"><a href="https://demo.casethemes.net/bixol/home-3/"><span>Home 3</span></a></li><li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://demo.casethemes.net/bixol/home-4/"><span>Home 4</span></a></li><li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://demo.casethemes.net/bixol/home-5/"><span>Home 5</span></a></li><li id="menu-item-2251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2251"><a href="https://demo.casethemes.net/bixol/home-1-one-page/"><span>Home 1 &#8211; One Page</span></a></li><li id="menu-item-2250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2250"><a href="https://demo.casethemes.net/bixol/home-2-one-page/"><span>Home 2 &#8211; One Page</span></a></li><li id="menu-item-2249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2249"><a href="https://demo.casethemes.net/bixol/home-3-one-page/"><span>Home 3 &#8211; One Page</span></a></li><li id="menu-item-2248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2248"><a href="https://demo.casethemes.net/bixol/home-4-one-page/"><span>Home 4 &#8211; One Page</span></a></li><li id="menu-item-2247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2247"><a href="https://demo.casethemes.net/bixol/home-5-one-page/"><span>Home 5 &#8211; One Page</span></a></li><li id="menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2228"><a href="https://demo.casethemes.net/bixol/landing/"><span>Landing</span></a></li></ul></li><li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47"><a href="#"><span>Pages</span></a><ul class="sub-menu"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="https://demo.casethemes.net/bixol/about-us/"><span>About Us</span></a><ul class="sub-menu"><li id="menu-item-2500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2500"><a href="https://demo.casethemes.net/bixol/about-us/"><span>About Us v.1</span></a></li><li id="menu-item-2499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2499"><a href="https://demo.casethemes.net/bixol/about-2/"><span>About Us v.2</span></a></li></ul></li><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://demo.casethemes.net/bixol/team/"><span>Our Team</span></a></li><li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://demo.casethemes.net/bixol/reviews/"><span>Reviews</span></a></li><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://demo.casethemes.net/bixol/pricing/"><span>Pricing</span></a></li><li id="menu-item-2524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2524"><a href="https://demo.casethemes.net/bixol/appointment/"><span>Appointment</span></a></li><li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://demo.casethemes.net/bixol/contact-us/"><span>Contact Us</span></a><ul class="sub-menu"><li id="menu-item-2505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2505"><a href="https://demo.casethemes.net/bixol/contact-us/"><span>Contact v.1</span></a></li><li id="menu-item-2503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2503"><a href="https://demo.casethemes.net/bixol/contact-2/"><span>Contact v.2</span></a></li><li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504"><a href="https://demo.casethemes.net/bixol/contact-3/"><span>Contact v.3</span></a></li></ul></li><li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="https://demo.casethemes.net/bixol/faq-page/"><span>Faq Page</span></a></li><li id="menu-item-2512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2512"><a href="https://demo.casethemes.net/bixol/coming-soon/"><span>Coming Soon</span></a></li><li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a href="https://demo.casethemes.net/bixol/404-page"><span>404 Page</span></a></li><li id="menu-item-1350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1350"><a href="https://demo.casethemes.net/bixol/shop/"><span>Shop</span></a><ul class="sub-menu"><li id="menu-item-1351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1351"><a href="https://demo.casethemes.net/bixol/shop/"><span>Products</span></a></li><li id="menu-item-1361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1361"><a href="https://demo.casethemes.net/bixol/cart/"><span>Cart</span></a></li><li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359"><a href="https://demo.casethemes.net/bixol/wishlist/"><span>Wishlist</span></a></li><li id="menu-item-1360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1360"><a href="https://demo.casethemes.net/bixol/checkout/"><span>Checkout</span></a></li><li id="menu-item-1352" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1352"><a href="https://demo.casethemes.net/bixol/product/cillit-bang/"><span>Product Details</span></a></li></ul></li></ul></li><li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42"><a href="https://demo.casethemes.net/bixol/services/"><span>Services</span></a><ul class="sub-menu"><li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425"><a href="https://demo.casethemes.net/bixol/services/"><span>Our Services v.1</span></a></li><li id="menu-item-2501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2501"><a href="https://demo.casethemes.net/bixol/services-2/"><span>Our Services v.2</span></a></li><li id="menu-item-2502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502"><a href="https://demo.casethemes.net/bixol/services-3/"><span>Our Services v.3</span></a></li><li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426"><a href="https://demo.casethemes.net/bixol/service/plumbing-services/"><span>Service Details</span></a></li></ul></li><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-40"><a href="https://demo.casethemes.net/bixol/portfolio-grid/"><span>Portfolio</span></a><ul class="sub-menu"><li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-274"><a href="https://demo.casethemes.net/bixol/portfolio-grid/"><span>Portfolio Grid</span></a><ul class="sub-menu"><li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="https://demo.casethemes.net/bixol/portfolio-grid-2-columns/"><span>2 Columns</span></a></li><li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="https://demo.casethemes.net/bixol/portfolio-grid/"><span>3 Columns</span></a></li><li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://demo.casethemes.net/bixol/portfolio-grid-4-columns/"><span>4 Columns</span></a></li><li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="https://demo.casethemes.net/bixol/portfolio-grid-4-columns-wide/"><span>4 Columns Wide</span></a></li></ul></li><li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="https://demo.casethemes.net/bixol/portfolio-masonry/"><span>Portfolio Masonry</span></a></li><li id="menu-item-318" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-318"><a href="https://demo.casethemes.net/bixol/portfolio/car-cleaning/"><span>Portfolio Details</span></a></li></ul></li><li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49"><a href="#"><span>Blog</span></a><ul class="sub-menu"><li id="menu-item-1278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1278"><a href="https://demo.casethemes.net/bixol/blog-carousel/"><span>Blog Carousel</span></a></li><li id="menu-item-1320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1320"><a href="https://demo.casethemes.net/bixol/blog-grid/"><span>Blog Grid</span></a><ul class="sub-menu"><li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321"><a href="https://demo.casethemes.net/bixol/blog-grid-2-columns/"><span>2 Columns</span></a></li><li id="menu-item-1323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1323"><a href="https://demo.casethemes.net/bixol/blog-grid-2-columns-sidebar-left/"><span>2 Columns Sidebar Left</span></a></li><li id="menu-item-1324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1324"><a href="https://demo.casethemes.net/bixol/blog-grid-2-columns-sidebar-right/"><span>2 Columns Sidebar Right</span></a></li><li id="menu-item-1325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1325"><a href="https://demo.casethemes.net/bixol/blog-grid/"><span>3 Columns</span></a></li><li id="menu-item-1322" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1322"><a href="https://demo.casethemes.net/bixol/blog-grid-4-columns/"><span>4 Columns</span></a></li></ul></li><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-34"><a href="https://demo.casethemes.net/bixol/blog-list/"><span>Blog Standard</span></a><ul class="sub-menu"><li id="menu-item-2378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2378"><a href="https://demo.casethemes.net/bixol/blog-standard-sidebar-left/"><span>Sidebar Left</span></a></li><li id="menu-item-2377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2377"><a href="https://demo.casethemes.net/bixol/blog-standard-full-width/"><span>Full Width</span></a></li><li id="menu-item-2379" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-2379"><a href="https://demo.casethemes.net/bixol/blog-list/"><span>Sidebar Right</span></a></li></ul></li><li id="menu-item-1500" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children menu-item-1500"><a href="https://demo.casethemes.net/bixol/our-proprietary-enables-quality/"><span>Blog Details</span></a><ul class="sub-menu"><li id="menu-item-2368" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2368"><a href="https://demo.casethemes.net/bixol/visit-our-office-and-see-services/"><span>Sidebar Left</span></a></li><li id="menu-item-2367" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2367"><a href="https://demo.casethemes.net/bixol/locate-bixol-usa-office-near-you/"><span>Full Width</span></a></li><li id="menu-item-2366" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-2366"><a href="https://demo.casethemes.net/bixol/our-proprietary-enables-quality/"><span>Sidebar Right</span></a></li></ul></li></ul></li><li id="menu-item-2839" class="menu-item menu-item-type-custom menu-item-object-custom megamenu megamenu-style-alt menu-item-has-children menu-item-2839"><a href="#"><span>Elements</span></a><ul class="sub-menu"><li><div class="container"><div data-elementor-type="wp-post" data-elementor-id="2840" class="elementor elementor-2840" data-elementor-settings="[]"><div class="elementor-inner"><div class="elementor-section-wrap"><section class="elementor-section elementor-top-section elementor-element elementor-element-7071f3c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7071f3c" data-element_type="section"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e1c7ed8" data-id="e1c7ed8" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-2782c1e elementor-widget elementor-widget-ct_menu_item" data-id="2782c1e" data-element_type="widget" data-widget_type="ct_menu_item.default"><div class="elementor-widget-container"><ul class="ct-menu-item "><li> <a href="https://demo.casethemes.net/bixol/elements/accordions-toggles/"> <i aria-hidden="true" class="material zmdi zmdi-menu"></i> Accordions & Toggles </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/blog-grid/"> <i aria-hidden="true" class="fas fa-newspaper"></i> Blog Grid </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/blog-slider/"> <i aria-hidden="true" class="far fa-newspaper"></i> Blog Slider </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/buttons/"> <i aria-hidden="true" class="fas fa-paper-plane"></i> Buttons </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/clients/"> <i aria-hidden="true" class="fas fa-users"></i> Clients </a></li></ul></div></div></div></div></div><div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4ac9cc7" data-id="4ac9cc7" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-39c0995 elementor-widget elementor-widget-ct_menu_item" data-id="39c0995" data-element_type="widget" data-widget_type="ct_menu_item.default"><div class="elementor-widget-container"><ul class="ct-menu-item "><li> <a href="https://demo.casethemes.net/bixol/elements/contact-forms-7/"> <i aria-hidden="true" class="fas fa-blender-phone"></i> Contact Forms 7 </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/counters/"> <i aria-hidden="true" class="fas fa-sort-numeric-down"></i> Counters </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/google-maps/"> <i aria-hidden="true" class="fas fa-map-marked-alt"></i> Google Maps </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/icon-with-text/"> <i aria-hidden="true" class="fas fa-coffee"></i> Icon With Text </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/lists/"> <i aria-hidden="true" class="fas fa-list-ul"></i> Lists </a></li></ul></div></div></div></div></div><div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-14b971b" data-id="14b971b" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-66ed210 elementor-widget elementor-widget-ct_menu_item" data-id="66ed210" data-element_type="widget" data-widget_type="ct_menu_item.default"><div class="elementor-widget-container"><ul class="ct-menu-item "><li> <a href="https://demo.casethemes.net/bixol/elements/message-box/"> <i aria-hidden="true" class="fas fa-hand-point-right"></i> Message Box </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/portfolio-carousel/"> <i aria-hidden="true" class="fas fa-briefcase"></i> Portfolio Carousel </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/pricing-tables/"> <i aria-hidden="true" class="fas fa-table"></i> Pricing Tables </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/progress-bars/"> <i aria-hidden="true" class="fas fa-server"></i> Progress Bars </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/services-carousel/"> <i aria-hidden="true" class="fas fa-cogs"></i> Services Carousel </a></li></ul></div></div></div></div></div><div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-05f9b5b" data-id="05f9b5b" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-d54a75e elementor-widget elementor-widget-ct_menu_item" data-id="d54a75e" data-element_type="widget" data-widget_type="ct_menu_item.default"><div class="elementor-widget-container"><ul class="ct-menu-item "><li> <a href="https://demo.casethemes.net/bixol/elements/tabs-tours/"> <i aria-hidden="true" class="fas fa-th-list"></i> Tabs & Tours </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/team-variations/"> <i aria-hidden="true" class="fas fa-users-cog"></i> Team Variations </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/testimonials/"> <i aria-hidden="true" class="fas fa-quote-left"></i> Testimonials </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/titles/"> <i aria-hidden="true" class="fas fa-text-height"></i> Titles </a></li><li> <a href="https://demo.casethemes.net/bixol/elements/video-button/"> <i aria-hidden="true" class="fas fa-play-circle"></i> Video Button </a></li></ul></div></div></div></div></div></div></div></section></div></div></div></div></li></ul></li></ul></div></nav><div class="ct-header-search"><form role="search" method="get" action="https://demo.casethemes.net/bixol/"> <input type="text" placeholder="Search" name="s" class="search-field"> <button type="submit" class="search-submit"><i class="fac fac-search"></i></button></form></div></div></div></div><div id="ct-menu-mobile"> <span class="btn-nav-mobile open-menu"> <span></span> </span></div></div></div></header><div id="pagetitle" class="page-title bg-image "><div class="container"><div class="page-title-inner"><div class="image-overlay"></div><div class="page-title-holder"><h1 class="page-title">404</h1></div><ul class="ct-breadcrumb"><li><a class="breadcrumb-entry" href="https://demo.casethemes.net/bixol/">Home</a></li><li><span class="breadcrumb-entry">Not Found</span></li></ul></div></div></div><div id="content" class="site-content "><div class="content-inner"><div class="container content-container"><div class="row content-row"><div id="primary" class="content-area col-12"><main id="main" class="site-main"><section class="error-404"><div class="error-404-content"><div class="error-404-holder"><h3 class="error-404-title"> Sorry Page Not Found</h3><div class="error-404-image"><img src="image-404.png" alt="404 Error"></div> <a class="btn btn-plus icon-left" href="https://demo.casethemes.net/bixol/"> <span class="icon-abs"><i class="fac fac-home"></i></span> Go back home </a></div></div></section></main><!-- #main --></div><!-- #primary --></div></div></div><!-- #content inner --></div><!-- #content --><footer id="colophon" class="site-footer-custom"><div class="footer-custom-inner"><div class="container"><div class="row"><div class="col-12"><div data-elementor-type="wp-post" data-elementor-id="70" class="elementor elementor-70" data-elementor-settings="[]"><div class="elementor-inner"><div class="elementor-section-wrap"><section class="elementor-section elementor-top-section elementor-element elementor-element-1ae08c7 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1ae08c7" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9523fa3" data-id="9523fa3" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-96c3370 logo-footer elementor-widget elementor-widget-ct_image" data-id="96c3370" data-element_type="widget" data-widget_type="ct_image.default"><div class="elementor-widget-container"><div class="ct-image-single  wow fadeInUp"> <a href="https://demo.casethemes.net/bixol/"> <img width="242" height="242" src="logo-footer.png" class="attachment-full" alt=""> </a></div></div></div><section class="elementor-section elementor-inner-section elementor-element elementor-element-06d6c37 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="06d6c37" data-element_type="section"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2c886b7" data-id="2c886b7" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-ed7363e elementor-widget elementor-widget-ct_heading" data-id="ed7363e" data-element_type="widget" data-widget_type="ct_heading.default"><div class="elementor-widget-container"><div class="ct-heading h-align-  ct-heading-left item-st-default" data-wow-delay="ms"><h3 class="item--title st-default"> <span> We are <cite>Bixol!</cite> </span></h3></div></div></div><div class="elementor-element elementor-element-5545a23 elementor-widget elementor-widget-ct_text_editor" data-id="5545a23" data-element_type="widget" data-widget_type="ct_text_editor.default"><div class="elementor-widget-container"><div id="ct_text_editor-5545a23" class="ct-text-editor " data-wow-delay="ms"><div class="ct-inline-css" data-css="
+ "></div><div class="ct-text-editor elementor-clearfix"> We work with a passion of taking challenges and creating new ones in advertising sector.</div></div></div></div><div class="elementor-element elementor-element-d062b98 elementor-widget elementor-widget-ct_heading" data-id="d062b98" data-element_type="widget" data-widget_type="ct_heading.default"><div class="elementor-widget-container"><div class="ct-heading h-align-  ct-heading-left item-st-default" data-wow-delay="ms"><h6 class="item--title st-default"> <span> Open Hours: </span></h6></div></div></div><div class="elementor-element elementor-element-26969b9 elementor-widget elementor-widget-ct_text_editor" data-id="26969b9" data-element_type="widget" data-widget_type="ct_text_editor.default"><div class="elementor-widget-container"><div id="ct_text_editor-26969b9" class="ct-text-editor " data-wow-delay="ms"><div class="ct-inline-css" data-css="
+ "></div><div class="ct-text-editor elementor-clearfix"> Mon &#8211; Sat: 8 am &#8211; 5 pm,<br> Sunday: CLOSED</div></div></div></div></div></div></div><div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-c415413" data-id="c415413" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-9057129 elementor-widget elementor-widget-ct_heading" data-id="9057129" data-element_type="widget" data-widget_type="ct_heading.default"><div class="elementor-widget-container"><div class="ct-heading h-align-  ct-heading-left item-st-default" data-wow-delay="ms"><h3 class="item--title st-default"> <span> Newsletter </span></h3></div></div></div><div class="elementor-element elementor-element-60060cc elementor-widget elementor-widget-ct_text_editor" data-id="60060cc" data-element_type="widget" data-widget_type="ct_text_editor.default"><div class="elementor-widget-container"><div id="ct_text_editor-60060cc" class="ct-text-editor " data-wow-delay="ms"><div class="ct-inline-css" data-css="
+ "></div><div class="ct-text-editor elementor-clearfix"> Subscribe our newsletter to get our latest update &#038; news</div></div></div></div><div class="elementor-element elementor-element-5ec1e8e elementor-widget elementor-widget-ct_mailchimp_form" data-id="5ec1e8e" data-element_type="widget" data-widget_type="ct_mailchimp_form.default"><div class="elementor-widget-container"><div class="ct-mailchimp ct-mailchimp1 style1"> <!-- Mailchimp for WordPress v4.8.1 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-98" method="post" data-id="98" data-name="Form 1"><div class="mc4wp-form-fields"><div class="field-group"><div class="field-input"> <input type="email" name="EMAIL" placeholder="Your mail address" required></div><div class="field-input"> <input type="submit" value="Subscribe"></div></div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1611741729"><input type="hidden" name="_mc4wp_form_id" value="98"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div></div></div><div class="elementor-element elementor-element-dca508b elementor-widget elementor-widget-ct_icon" data-id="dca508b" data-element_type="widget" data-widget_type="ct_icon.default"><div class="elementor-widget-container"><div class="ct-icon1 style1"><div class="ct-inline-css" data-css=".ct-icon1 .ct_icon-dca508b-0, .ct-icon1 .ct_icon-dca508b-0:hover { color: #16599B!important; } .ct-icon1 .ct_icon-dca508b-0 svg { fill: #16599B!important; }"></div> <a class="ct_icon-dca508b-0" href="#"> <i aria-hidden="true" class="fab fa-facebook-f"></i> </a><div class="ct-inline-css" data-css=".ct-icon1 .ct_icon-dca508b-1, .ct-icon1 .ct_icon-dca508b-1:hover { color: #03A9F4!important; } .ct-icon1 .ct_icon-dca508b-1 svg { fill: #03A9F4!important; }"></div> <a class="ct_icon-dca508b-1" href="#"> <i aria-hidden="true" class="fab fa-twitter"></i> </a><div class="ct-inline-css" data-css=".ct-icon1 .ct_icon-dca508b-2, .ct-icon1 .ct_icon-dca508b-2:hover { color: #DD4984!important; } .ct-icon1 .ct_icon-dca508b-2 svg { fill: #DD4984!important; }"></div> <a class="ct_icon-dca508b-2" href="#"> <i aria-hidden="true" class="fab fa-dribbble"></i> </a><div class="ct-inline-css" data-css=".ct-icon1 .ct_icon-dca508b-3, .ct-icon1 .ct_icon-dca508b-3:hover { color: #0067FF!important; } .ct-icon1 .ct_icon-dca508b-3 svg { fill: #0067FF!important; }"></div> <a class="ct_icon-dca508b-3" href="#"> <i aria-hidden="true" class="fab fa-behance"></i> </a></div></div></div></div></div></div><div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-233cf4f" data-id="233cf4f" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-cad6da4 elementor-widget elementor-widget-ct_heading" data-id="cad6da4" data-element_type="widget" data-widget_type="ct_heading.default"><div class="elementor-widget-container"><div class="ct-heading h-align-  ct-heading-left item-st-default" data-wow-delay="ms"><h3 class="item--title st-default"> <span> Official info: </span></h3></div></div></div><div class="elementor-element elementor-element-799f41f elementor-widget elementor-widget-ct_contact_info" data-id="799f41f" data-element_type="widget" data-widget_type="ct_contact_info.default"><div class="elementor-widget-container"><ul class="ct-contact-info ct-contact-info1 " data-wow-duration="1.2s"><li> <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span> <span class="ct-contact-content"> 30 Commercial Road Fratton, Australia </span></li><li> <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="ct-contact-content"> 1-888-452-1505 </span></li><li> <span class="ct-contact-icon"> <i aria-hidden="true" class="fas fa-envelope"></i> </span> <span class="ct-contact-content"> envato@gmail.com<br> info@mail.com </span></li></ul></div></div></div></div></div><div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-e3ecc06" data-id="e3ecc06" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-9226ac1 elementor-widget elementor-widget-ct_heading" data-id="9226ac1" data-element_type="widget" data-widget_type="ct_heading.default"><div class="elementor-widget-container"><div class="ct-heading h-align-  ct-heading-left item-st-default" data-wow-delay="ms"><h3 class="item--title st-default"> <span> Instagram </span></h3></div></div></div><div class="elementor-element elementor-element-c59eebc elementor-widget elementor-widget-ct_text_editor" data-id="c59eebc" data-element_type="widget" data-widget_type="ct_text_editor.default"><div class="elementor-widget-container"><div id="ct_text_editor-c59eebc" class="ct-text-editor " data-wow-delay="ms"><div class="ct-inline-css" data-css="
+ "></div><div class="ct-text-editor elementor-clearfix"><div id="sb_instagram" class="sbi sbi_col_3  sbi_width_resp" style="padding-bottom: 8px;width: 100%" data-feedid="sbi_17841440200737047#6" data-res="auto" data-cols="3" data-num="6" data-shortcode-atts="{}"><div id="sbi_images" style="padding: 4px"><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17904425401509864" data-date="1597742331"><div class="sbi_photo_wrap"> <a class="sbi_photo" href="https://www.instagram.com/p/CEBn46Nlug5/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/117673321_589176308415392_3738537706879313459_n.jpg?_nc_cat=108&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=z9DGbGL4rhMAX98Lshg&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=dc33e8f4b6e251ad14036080160a69d3&#038;oe=60378333" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117673321_589176308415392_3738537706879313459_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=z9DGbGL4rhMAX98Lshg&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=dc33e8f4b6e251ad14036080160a69d3&amp;oe=60378333&quot;,&quot;150&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117673321_589176308415392_3738537706879313459_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=z9DGbGL4rhMAX98Lshg&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=dc33e8f4b6e251ad14036080160a69d3&amp;oe=60378333&quot;,&quot;320&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117673321_589176308415392_3738537706879313459_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=z9DGbGL4rhMAX98Lshg&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=dc33e8f4b6e251ad14036080160a69d3&amp;oe=60378333&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117673321_589176308415392_3738537706879313459_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=z9DGbGL4rhMAX98Lshg&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=dc33e8f4b6e251ad14036080160a69d3&amp;oe=60378333&quot;}"> <span class="sbi-screenreader">Instagram post 17904425401509864</span> <img src="placeholder.png" alt="Instagram post 17904425401509864"> </a></div></div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17851323329205000" data-date="1597742323"><div class="sbi_photo_wrap"> <a class="sbi_photo" href="https://www.instagram.com/p/CEBn4B1Fk4H/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/117428305_977296679407923_5524450503245264275_n.jpg?_nc_cat=104&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=ehY1rLhhT-MAX8axd38&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=ae24b0a24ca869dcc7df54330be5473e&#038;oe=60372FCE" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117428305_977296679407923_5524450503245264275_n.jpg?_nc_cat=104&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ehY1rLhhT-MAX8axd38&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=ae24b0a24ca869dcc7df54330be5473e&amp;oe=60372FCE&quot;,&quot;150&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117428305_977296679407923_5524450503245264275_n.jpg?_nc_cat=104&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ehY1rLhhT-MAX8axd38&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=ae24b0a24ca869dcc7df54330be5473e&amp;oe=60372FCE&quot;,&quot;320&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117428305_977296679407923_5524450503245264275_n.jpg?_nc_cat=104&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ehY1rLhhT-MAX8axd38&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=ae24b0a24ca869dcc7df54330be5473e&amp;oe=60372FCE&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117428305_977296679407923_5524450503245264275_n.jpg?_nc_cat=104&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=ehY1rLhhT-MAX8axd38&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=ae24b0a24ca869dcc7df54330be5473e&amp;oe=60372FCE&quot;}"> <span class="sbi-screenreader">Instagram post 17851323329205000</span> <img src="placeholder.png" alt="Instagram post 17851323329205000"> </a></div></div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17860171409078667" data-date="1597742316"><div class="sbi_photo_wrap"> <a class="sbi_photo" href="https://www.instagram.com/p/CEBn3KElAMi/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/117640336_2977581815703277_270738785195451740_n.jpg?_nc_cat=101&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=W9dnAmDElYUAX_e_lOZ&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=b96d899d655f5f386d7bf945ebfef844&#038;oe=603510AD" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117640336_2977581815703277_270738785195451740_n.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=W9dnAmDElYUAX_e_lOZ&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=b96d899d655f5f386d7bf945ebfef844&amp;oe=603510AD&quot;,&quot;150&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117640336_2977581815703277_270738785195451740_n.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=W9dnAmDElYUAX_e_lOZ&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=b96d899d655f5f386d7bf945ebfef844&amp;oe=603510AD&quot;,&quot;320&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117640336_2977581815703277_270738785195451740_n.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=W9dnAmDElYUAX_e_lOZ&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=b96d899d655f5f386d7bf945ebfef844&amp;oe=603510AD&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117640336_2977581815703277_270738785195451740_n.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=W9dnAmDElYUAX_e_lOZ&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=b96d899d655f5f386d7bf945ebfef844&amp;oe=603510AD&quot;}"> <span class="sbi-screenreader">Instagram post 17860171409078667</span> <img src="placeholder.png" alt="Instagram post 17860171409078667"> </a></div></div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_18142258192078318" data-date="1597742309"><div class="sbi_photo_wrap"> <a class="sbi_photo" href="https://www.instagram.com/p/CEBn2OClHaf/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/117815412_3158897844227971_4195777071964831331_n.jpg?_nc_cat=111&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=bZQg4CCW60wAX-Ln8I2&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=41d413669ee52c729e8536d85919c576&#038;oe=6036C05E" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117815412_3158897844227971_4195777071964831331_n.jpg?_nc_cat=111&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bZQg4CCW60wAX-Ln8I2&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=41d413669ee52c729e8536d85919c576&amp;oe=6036C05E&quot;,&quot;150&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117815412_3158897844227971_4195777071964831331_n.jpg?_nc_cat=111&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bZQg4CCW60wAX-Ln8I2&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=41d413669ee52c729e8536d85919c576&amp;oe=6036C05E&quot;,&quot;320&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117815412_3158897844227971_4195777071964831331_n.jpg?_nc_cat=111&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bZQg4CCW60wAX-Ln8I2&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=41d413669ee52c729e8536d85919c576&amp;oe=6036C05E&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117815412_3158897844227971_4195777071964831331_n.jpg?_nc_cat=111&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=bZQg4CCW60wAX-Ln8I2&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=41d413669ee52c729e8536d85919c576&amp;oe=6036C05E&quot;}"> <span class="sbi-screenreader">Instagram post 18142258192078318</span> <img src="placeholder.png" alt="Instagram post 18142258192078318"> </a></div></div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17863173944041329" data-date="1597742299"><div class="sbi_photo_wrap"> <a class="sbi_photo" href="https://www.instagram.com/p/CEBn1FSFEPv/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/118038123_340868053621641_6753914680787914876_n.jpg?_nc_cat=108&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=G_ogWc_zqkkAX-VIEl5&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=5782d30bd62da186da98e5a0b304a064&#038;oe=60370342" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118038123_340868053621641_6753914680787914876_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=G_ogWc_zqkkAX-VIEl5&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=5782d30bd62da186da98e5a0b304a064&amp;oe=60370342&quot;,&quot;150&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118038123_340868053621641_6753914680787914876_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=G_ogWc_zqkkAX-VIEl5&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=5782d30bd62da186da98e5a0b304a064&amp;oe=60370342&quot;,&quot;320&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118038123_340868053621641_6753914680787914876_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=G_ogWc_zqkkAX-VIEl5&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=5782d30bd62da186da98e5a0b304a064&amp;oe=60370342&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/118038123_340868053621641_6753914680787914876_n.jpg?_nc_cat=108&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=G_ogWc_zqkkAX-VIEl5&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=5782d30bd62da186da98e5a0b304a064&amp;oe=60370342&quot;}"> <span class="sbi-screenreader">Instagram post 17863173944041329</span> <img src="placeholder.png" alt="Instagram post 17863173944041329"> </a></div></div><div class="sbi_item sbi_type_image sbi_new sbi_transition" id="sbi_17869847905935552" data-date="1597742290"><div class="sbi_photo_wrap"> <a class="sbi_photo" href="https://www.instagram.com/p/CEBnz8IlbOp/" target="_blank" rel="noopener nofollow" data-full-res="https://scontent-ort2-1.cdninstagram.com/v/t51.29350-15/117731030_766523577505178_9129974093316140501_n.jpg?_nc_cat=110&#038;ccb=2&#038;_nc_sid=8ae9d6&#038;_nc_ohc=doUOAJMsm00AX8gijg4&#038;_nc_ht=scontent-ort2-1.cdninstagram.com&#038;oh=d3052254147848def77c3556f5c98962&#038;oe=60377FB3" data-img-src-set="{&quot;d&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117731030_766523577505178_9129974093316140501_n.jpg?_nc_cat=110&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=doUOAJMsm00AX8gijg4&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=d3052254147848def77c3556f5c98962&amp;oe=60377FB3&quot;,&quot;150&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117731030_766523577505178_9129974093316140501_n.jpg?_nc_cat=110&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=doUOAJMsm00AX8gijg4&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=d3052254147848def77c3556f5c98962&amp;oe=60377FB3&quot;,&quot;320&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117731030_766523577505178_9129974093316140501_n.jpg?_nc_cat=110&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=doUOAJMsm00AX8gijg4&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=d3052254147848def77c3556f5c98962&amp;oe=60377FB3&quot;,&quot;640&quot;:&quot;https:\/\/scontent-ort2-1.cdninstagram.com\/v\/t51.29350-15\/117731030_766523577505178_9129974093316140501_n.jpg?_nc_cat=110&amp;ccb=2&amp;_nc_sid=8ae9d6&amp;_nc_ohc=doUOAJMsm00AX8gijg4&amp;_nc_ht=scontent-ort2-1.cdninstagram.com&amp;oh=d3052254147848def77c3556f5c98962&amp;oe=60377FB3&quot;}"> <span class="sbi-screenreader">Instagram post 17869847905935552</span> <img src="placeholder.png" alt="Instagram post 17869847905935552"> </a></div></div></div><div id="sbi_load"></div> <span class="sbi_resized_image_data" data-feed-id="sbi_17841440200737047#6" data-resized="{&quot;17904425401509864&quot;:{&quot;id&quot;:&quot;117673321_589176308415392_3738537706879313459_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17851323329205000&quot;:{&quot;id&quot;:&quot;117428305_977296679407923_5524450503245264275_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17860171409078667&quot;:{&quot;id&quot;:&quot;117640336_2977581815703277_270738785195451740_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;18142258192078318&quot;:{&quot;id&quot;:&quot;117815412_3158897844227971_4195777071964831331_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17863173944041329&quot;:{&quot;id&quot;:&quot;118038123_340868053621641_6753914680787914876_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}},&quot;17869847905935552&quot;:{&quot;id&quot;:&quot;117731030_766523577505178_9129974093316140501_n&quot;,&quot;ratio&quot;:&quot;1.00&quot;,&quot;sizes&quot;:{&quot;full&quot;:640,&quot;low&quot;:320}}}"> </span></div></div></div></div></div></div></div></div></div></div></section></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-7f353bf elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f353bf" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-container elementor-column-gap-extended "><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1657d16" data-id="1657d16" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-cb77b43 elementor-widget elementor-widget-ct_text_editor" data-id="cb77b43" data-element_type="widget" data-widget_type="ct_text_editor.default"><div class="elementor-widget-container"><div id="ct_text_editor-cb77b43" class="ct-text-editor " data-wow-delay="ms"><div class="ct-inline-css" data-css="
+ "></div><div class="ct-text-editor elementor-clearfix"> <span class="ct-year">2020</span> © All rights reserved by <a href="https://themeforest.net/user/case-themes/portfolio" target="_blank" rel="nofollow noopener">CaseThemes</a></div></div></div></div></div></div></div></div></div></section></div></div></div></div></div></div></div> <span class="ct-footer-year">2021</span></footer> <a href="#" class="scroll-top"><i class="zmdi zmdi-long-arrow-up"></i></a></div><!-- #page --><div class="ct-modal ct-modal-search"><div class="ct-modal-close"><i class="zmdi zmdi-close"></i></div><div class="ct-modal-overlay"></div><div class="ct-modal-content"><form role="search" method="get" class="search-form-popup" action="https://demo.casethemes.net/bixol/"><div class="searchform-wrap"> <input type="text" placeholder="Enter Keywords..." id="search" name="s" class="search-field"> <button type="submit" class="search-submit"><i class="far fac-search"></i></button></div></form></div></div><div class="ct-widget-cart-wrap"><div class="ct-widget-cart-overlay"></div><div class="ct-widget-cart-sidebar"><div class="ct-close"><i class="zmdi zmdi-close"></i></div><div class="widget_shopping_cart"><div class="widget_shopping_cart_content"><p class="woocommerce-mini-cart__empty-message">No products in the cart.</p></div></div></div></div> <!-- Instagram Feed JS --><div id="yith-quick-view-modal"><div class="yith-quick-view-overlay"></div><div class="yith-wcqv-wrapper"><div class="yith-wcqv-main"><div class="yith-wcqv-head"> <a href="#" id="yith-quick-view-close" class="yith-wcqv-close">X</a></div><div id="yith-quick-view-content" class="woocommerce single-product"></div></div></div></div><div class="pswp" tabindex="-1" role="dialog" aria-hidden="true"><div class="pswp__bg"></div><div class="pswp__scroll-wrap"><div class="pswp__container"><div class="pswp__item"></div><div class="pswp__item"></div><div class="pswp__item"></div></div><div class="pswp__ui pswp__ui--hidden"><div class="pswp__top-bar"><div class="pswp__counter"></div> <button class="pswp__button pswp__button--close" aria-label="Close (Esc)"></button> <button class="pswp__button pswp__button--share" aria-label="Share"></button> <button class="pswp__button pswp__button--fs" aria-label="Toggle fullscreen"></button> <button class="pswp__button pswp__button--zoom" aria-label="Zoom in/out"></button><div class="pswp__preloader"><div class="pswp__preloader__icn"><div class="pswp__preloader__cut"><div class="pswp__preloader__donut"></div></div></div></div></div><div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap"><div class="pswp__share-tooltip"></div></div> <button class="pswp__button pswp__button--arrow--left" aria-label="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" aria-label="Next (arrow right)"></button><div class="pswp__caption"><div class="pswp__caption__center"></div></div></div></div></div> <script type="text/template" id="tmpl-variation-template"><div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div><div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div><div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div> </script> <script type="text/template" id="tmpl-unavailable-variation-template"><p>Sorry, this product is unavailable. Please choose a different combination.</p> </script> <script type="text/javascript" id="wp-util-js-extra"> /* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/bixol\/wp-admin\/admin-ajax.php"}};
+/* ]]> */ </script> <script type="text/javascript" id="wc-add-to-cart-variation-js-extra"> /* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/bixol\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */ </script> <script type="text/javascript" id="elementor-frontend-js-before"> var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.15","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/demo.casethemes.net\/bixol\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Page not found &#8211; Bixol","excerpt":""}}; </script> <script defer src="../js/siteground-optimizer-combined-js-fa53d76129442c5c66b5b54d1e522955.js"></script></body></html>

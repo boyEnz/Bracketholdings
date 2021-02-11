@@ -1,0 +1,669 @@
+@font-face {
+    font-family: 'Kalam';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/YA9dr0Wd4kDdMthfOCI.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/S6uyw4BMUTPHjxAwWw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/S6u9w4BMUTPHh6UVSwaPHA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk50e0.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(fonts/pe01MImSLYBIv1o4X1M8cce4GxZrY10IVw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/pe01MImSLYBIv1o4X1M8cce4G3JoY10IVw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/pe0oMImSLYBIv1o4X1M8cce4E9dKcw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/pe01MImSLYBIv1o4X1M8cce4GwZuY10IVw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/pe01MImSLYBIv1o4X1M8cce4G2JvY10IVw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(fonts/pe01MImSLYBIv1o4X1M8cce4G35sY10IVw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/pe01MImSLYBIv1o4X1M8cce4G1ptY10IVw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(fonts/pe03MImSLYBIv1o4X1M8cc9yAs5jU1Q.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/pe03MImSLYBIv1o4X1M8cc8WAc5jU1Q.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/pe0qMImSLYBIv1o4X1M8ccezI94.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/pe03MImSLYBIv1o4X1M8cc9iB85jU1Q.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/pe03MImSLYBIv1o4X1M8cc8GBs5jU1Q.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(fonts/pe03MImSLYBIv1o4X1M8cc8aBc5jU1Q.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/pe03MImSLYBIv1o4X1M8cc8-BM5jU1Q.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXt_A_A.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXt_A_A.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDZbtY.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDZbtY.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDZbtY.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDZbtY.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url(fonts/pxiAyp8kv8JHgFVrJJLmE0tMMPc.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLmv1pVGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLm21lVGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/pxiGyp8kv8JHgFVrJJLufntF.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLmg1hVGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLmr19VGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLmy15VGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLm111VGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/pxiDyp8kv8JHgFVrJJLm81xVGdeL.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(fonts/pxiGyp8kv8JHgFVrLPTufntF.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLFj_Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLDz8Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/pxiEyp8kv8JHgFVrJJnedw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLGT9Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLEj6Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLCz7Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLDD4Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/pxiByp8kv8JHgFVrLBT5Z1JlEA.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url(fonts/KFOiCnqEu92Fr1Mu51QrEz4dKg.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/KFOjCnqEu92Fr1Mu51TjASc0CsE.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/KFOkCnqEu92Fr1Mu51xGIzc.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/KFOjCnqEu92Fr1Mu51S7ACc0CsE.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/KFOjCnqEu92Fr1Mu51TzBic0CsE.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/KFOjCnqEu92Fr1Mu51TLBCc0CsE.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(fonts/KFOkCnqEu92Fr1MmgVxGIzc.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/KFOlCnqEu92Fr1MmSU5fChc9.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/KFOmCnqEu92Fr1Mu7GxP.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/KFOlCnqEu92Fr1MmEU9fChc9.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/KFOlCnqEu92Fr1MmWUlfChc9.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/KFOlCnqEu92Fr1MmYUtfChc9.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(fonts/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYWRm.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE3U5f4c.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE3U5f4c.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFHU5f4c.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FHU5f4c.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYiFWUUw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4iFWUUw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYiFWUUw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-FWUUw.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(fonts/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-FWUUw.ttf) format('truetype');
+}
+
+</style><link rel="stylesheet" id="siteground-optimizer-combined-css-971c3e008f9c6c40cbdb8cbc9625e131" href="css/siteground-optimizer-combined-css-971c3e008f9c6c40cbdb8cbc9625e131.css" media="all"><style type="text/css" media="screen">#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active,
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td a.ui-state-active:hover,
+body #booked-profile-page input[type=submit].button-primary:hover,
+body .booked-list-view button.button:hover,
+body .booked-list-view input[type=submit].button-primary:hover,
+body table.booked-calendar input[type=submit].button-primary:hover,
+body .booked-modal input[type=submit].button-primary:hover,
+body table.booked-calendar th,
+body table.booked-calendar thead,
+body table.booked-calendar thead th,
+body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,
+body #booked-profile-page .booked-profile-header,
+body #booked-profile-page .booked-tabs li.active a,
+body #booked-profile-page .booked-tabs li.active a:hover,
+body #booked-profile-page .appt-block .google-cal-button>a:hover,
+#ui-datepicker-div.booked_custom_date_picker .ui-datepicker-header {
+    background: #1684fb !important;
+}
+
+body #booked-profile-page input[type=submit].button-primary:hover,
+body table.booked-calendar input[type=submit].button-primary:hover,
+body .booked-list-view button.button:hover,
+body .booked-list-view input[type=submit].button-primary:hover,
+body .booked-modal input[type=submit].button-primary:hover,
+body table.booked-calendar th,
+body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button:hover,
+body #booked-profile-page .booked-profile-header,
+body #booked-profile-page .appt-block .google-cal-button>a:hover {
+    border-color: #1684fb !important;
+}
+
+body table.booked-calendar tr.days,
+body table.booked-calendar tr.days th,
+body .booked-calendarSwitcher.calendar,
+body #booked-profile-page .booked-tabs,
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead,
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar thead th {
+    background: #0431b8 !important;
+}
+
+body table.booked-calendar tr.days th,
+body #booked-profile-page .booked-tabs {
+    border-color: #0431b8 !important;
+}
+
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a,
+#ui-datepicker-div.booked_custom_date_picker table.ui-datepicker-calendar tbody td.ui-datepicker-today a:hover,
+body #booked-profile-page input[type=submit].button-primary,
+body table.booked-calendar input[type=submit].button-primary,
+body .booked-list-view button.button,
+body .booked-list-view input[type=submit].button-primary,
+body .booked-list-view button.button,
+body .booked-list-view input[type=submit].button-primary,
+body .booked-modal input[type=submit].button-primary,
+body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,
+body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block,
+body #booked-profile-page .appt-block .google-cal-button>a,
+body .booked-modal p.booked-title-bar,
+body table.booked-calendar td:hover .date span,
+body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,
+body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover,
+.booked-ms-modal .booked-book-appt
+/* Multi-Slot Booking */
+
+{
+    background: #1684fb;
+}
+
+body #booked-profile-page input[type=submit].button-primary,
+body table.booked-calendar input[type=submit].button-primary,
+body .booked-list-view button.button,
+body .booked-list-view input[type=submit].button-primary,
+body .booked-list-view button.button,
+body .booked-list-view input[type=submit].button-primary,
+body .booked-modal input[type=submit].button-primary,
+body #booked-profile-page .appt-block .google-cal-button>a,
+body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,
+body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active,
+body .booked-list-view a.booked_list_date_picker_trigger.booked-dp-active:hover {
+    border-color: #1684fb;
+}
+
+body .booked-modal .bm-window p i.fa,
+body .booked-modal .bm-window a,
+body .booked-appt-list .booked-public-appointment-title,
+body .booked-modal .bm-window p.appointment-title,
+.booked-ms-modal.visible:hover .booked-book-appt {
+    color: #1684fb;
+}
+
+.booked-appt-list .timeslot.has-title .booked-public-appointment-title {
+    color: inherit;
+}
