@@ -661,22 +661,23 @@ function includeHeader() {
                                                 <ul class="sub-menu">
                                                     <li id="menu-item-425"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425">
-                                                        <a href="indext/services/"><span>Our
-                                                                Services v.1</span></a></li>
+                                                        <a href="Manufacturer_Solutions.html"><span>Manufacturer Solutions</span></a></li>
                                                     <li id="menu-item-2501"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2501">
-                                                        <a href="indext/services-2/"><span>Our
-                                                                Services v.2</span></a></li>
+                                                        <a href="eletrical.html"><span>Electrical Power Solutions</span></a></li>
                                                     <li id="menu-item-2502"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502">
-                                                        <a href="indext/services-3/"><span>Our
-                                                                Services v.3</span></a></li>
+                                                        <a href="Animal_health.html"><span>Animal Health Solutions</span></a></li>
                                                     <li id="menu-item-426"
                                                         class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426">
-                                                        <a
-                                                            href="indext/service/plumbing-services/"><span>Service
-                                                                Details</span></a></li>
-                                                </ul>
+                                                        <a href="pharmaceutical.html"><span>Pharmaceutical distribution solutions</span></a></li>
+														<li id="menu-item-426"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426">
+                                                        <a href="provider_solution.html"><span>Provider Solutions</span></a></li>
+														<li id="menu-item-426"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426">
+                                                        <a href="service-engneering.html"><span>Facilities Engneering</span></a></li>
+														</ul>
                                             </li>
                                             
                                             
