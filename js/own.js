@@ -680,6 +680,22 @@ function includeHeader() {
 														<li id="menu-item-426"
                                                         class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426">
                                                         <a href="Janitorial.html"><span>Janitorial</span></a></li>
+														<li id="menu-item-426"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426">
+                                                        <a href="Energy.html"><span>Energy Solutions</span></a></li>
+														<li id="menu-item-426"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-service menu-item-426">
+                                                        <a href="service-Landscape .html"><span>Landscape & Turf Maintainance Services</span></a></li>
+														<li id="menu-item-2502"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502">
+                                                        <a href="service-mechanical.html"><span>HVAC & Mechanical Services</span></a></li>
+														<li id="menu-item-2502"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502">
+                                                        <a href="parking-transportation.html"><span>Parking-Tansportaion Services</span></a></li>
+														<li id="menu-item-2502"
+                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502">
+                                                        <a href="Light.html"><span>Lighting</span></a></li>
+														
 														</ul>
                                             </li>
                                             
