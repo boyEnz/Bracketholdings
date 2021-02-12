@@ -657,7 +657,7 @@ function includeHeader() {
                                             <li id="menu-item-42"
                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42">
                                                 <a
-                                                    href="indext/services/"><span>Services</span></a>
+                                                    href="services.html"><span>Services</span></a>
                                                 <ul class="sub-menu">
                                                     <li id="menu-item-425"
                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-425">
